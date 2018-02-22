@@ -1,4 +1,5 @@
-consumer_key = 'DhYFUV0WScgPGBw7ihc6b5C8y'
-consumer_secret = 'yvVqZu7oytFzXeO2GI667bjGubcSgiSd6ZXhjd2Ca1gAx5ZfjS'
-access_token = '961911512188276736-pOt25e1mrN6vau2dPVoMBjLM0sbM8aX'
-access_token_secret = 'VPFUyWhy2SqBJnfRxe3Lbv1eayBYkgD3GB34trBPicwh4'
+consumer_key = 'Put Key here'
+consumer_secret = 'Put key here'
+access_token = 'Put key here''
+access_token_secret = 'Put key here'
+#enter the API information for the Twitter account in this file
